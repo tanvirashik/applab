@@ -1,0 +1,533 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .menubutton {
+        margin-left: 0px;
+    }
+    .b_content span{
+        font-size:14px;
+    }
+    .b_content {
+        margin-top: 100px;
+        padding: 0 0px;
+    }
+    .m_btn{
+        margin-left:0%;
+        padding: 10px 30px;
+    }
+    .b_content span{
+        margin-left:0;
+    }
+    .ft {
+        padding-top: 100px;
+    }
+    .editor{
+        width:55%;
+        margin:0 auto;
+    }
+    .b_content h1{
+        margin-top:20px;
+        font-size:38px;
+        text-align: center;
+        padding: 0 0px;
+    }
+    .b_content p{
+        margin-bottom:30px;
+        text-align: center;
+    }
+    .banner {
+        padding-top: 0px;
+    }
+    .f_content h2 {
+        padding-right:0;
+        font-size:25px;
+    }
+    .fc_text p {
+        padding-right: 0;
+    }
+    .s-text2 h2{
+        font-size:35px;
+        text-align: center;
+        font-size:30px;
+    }
+    .fcbb {
+        margin-top: 20px;
+    }
+    .fcb {
+        margin-top: 20px;
+    }
+    .smart {
+        margin-top: 50px;
+        padding: 0;
+    }
+    .s-text2 h2{
+        padding-right:0;
+    }
+    .singel h2{
+        font-size:17px;
+    }
+    .s-text2 p{
+        padding-right:0;
+        text-align: center;
+    }
+    .singel p {
+        padding-right: 0px;
+    }
+    .network {
+        margin-top: 70px;
+        /* padding: 0 60px; */
+    }
+    .pppp {
+        padding: 0 0px;
+        font-size:30px;
+    }
+    .ultimate {
+        padding: 50px 0;
+    }
+    .degine{
+        margin-top:70px;
+    }
+    .degText {
+        margin-top: 30px;
+        padding-left: 0px;
+        text-align: center;
+    }
+    .degText h2{
+        padding-right:0;
+        font-size:30px;
+    }
+    .pricing {
+        margin-top: 80px;
+    }
+    .cmtext{
+        padding: 0;
+        margin-bottom:50px;
+    }
+    .ulText h2{
+        padding-right:0px;
+    }
+    .ap {
+        margin-top: 20px;
+    }
+    .ap p{
+        margin-bottom:30px;
+    }
+    .ap h2{
+        margin-bottom:10px;
+    }
+    .ml {
+        margin-left: 0;
+    }
+    .awesome {
+        margin-top: 0px;
+    }
+    .ctext {
+        padding-right: 0px;
+    }
+    .cmtitle{
+        font-size:30px;
+    }
+    .ctext h2 {
+        font-size:30px;
+        margin-top:40px;
+    }
+    .downtext h2{
+        font-size:33px;
+    }
+    .downimg img {
+        margin-top: 100px;
+    }
+    .downtext img {
+        margin-right: 20px;
+        width:40%;
+    }
+    .ccp {
+        top: 45%;
+        left: 75%;
+    }
+    .ccn {
+        top: 45%;
+        right:65px;
+    }
+    .asked {
+        margin-top: 80px;
+        padding-bottom: 40px;
+    }
+    footer {
+        margin-top: 50px;
+    }
+    .footer-text {
+        padding: 50px 0;
+    }
+}
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .menubutton {
+        margin-left: 0px;
+    }
+    .b_content span{
+        font-size:14px;
+    }
+    .b_content {
+        margin-top: 100px;
+        padding: 0 0px;
+    }
+    .m_btn{
+        margin-left:22%;
+    }
+    .ft {
+        padding-top: 100px;
+    }
+    .editor{
+        width:55%;
+        margin:0 auto;
+    }
+    .b_content h1{
+        margin-top:20px;
+        font-size:38px;
+        text-align: center;
+        padding: 0 50px;
+    }
+    .b_content p{
+        margin-bottom:30px;
+        text-align: center;
+    }
+    .banner {
+        padding-top: 0px;
+    }
+    .f_content h2 {
+        padding-right:0;
+    }
+    .fc_text p {
+        padding-right: 0;
+    }
+    .s-text2 h2{
+        font-size:35px;
+    }
+    .fcbb {
+        margin-top: 20px;
+    }
+    .fcb {
+        margin-top: 20px;
+    }
+    .smart {
+        margin-top: 50px;
+        padding: 0;
+    }
+    .s-text2 h2{
+        padding-right:0;
+    }
+    .singel h2{
+        font-size:17px;
+    }
+    .s-text2 p{
+        padding-right:0;
+    }
+    .singel p {
+        padding-right: 0px;
+    }
+    .network {
+        margin-top: 70px;
+        /* padding: 0 60px; */
+    }
+    .pppp {
+        padding: 0 0px;
+    }
+    .degine{
+        margin-top:70px;
+    }
+    .degText {
+        margin-top: 0;
+        padding-left: 60px;
+    }
+    .degText h2{
+        padding-right:0;
+    }
+    .pricing {
+        margin-top: 80px;
+    }
+    .cmtext{
+        padding: 0;
+        margin-bottom:50px;
+    }
+    .ulText h2{
+        padding-right:0px;
+    }
+    .ap {
+        margin-top: 20px;
+    }
+    .ap p{
+        margin-bottom:30px;
+    }
+    .ap h2{
+        margin-bottom:20px;
+    }
+    .ml {
+        margin-left: 0;
+    }
+    .awesome {
+        margin-top: 0px;
+    }
+    .ctext {
+        padding-right: 0px;
+    }
+    .ctext h2 {
+        font-size:30px;
+        margin-top:40px;
+    }
+    .downtext h2{
+        font-size:33px;
+    }
+    .downimg img {
+        margin-top: 100px;
+    }
+    .downtext img {
+        margin-right: 20px;
+        width:40%;
+    }
+    .ccp {
+        top: 20%;
+        left: 50%;
+    }
+    .ccn {
+        top: 20%;
+        right:130px;
+    }
+    .asked {
+        margin-top: 80px;
+        padding-bottom: 40px;
+    }
+    footer {
+        margin-top: 50px;
+    }
+    .footer-text {
+        padding: 50px 0;
+    }
+}
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .menubutton {
+        margin-left: 0px;
+    }
+    .b_content span{
+        font-size:14px;
+    }
+    .b_content {
+        margin-top: 100px;
+        padding: 0 0px;
+    }
+    .editor{
+        width:70%;
+    }
+    .b_content h1{
+        font-size:38px;
+    }
+    .b_content p{
+        margin-bottom:30px;
+    }
+    .banner {
+        padding-top: 60px;
+    }
+    .f_content h2 {
+        padding-right:0;
+    }
+    .fc_text p {
+        padding-right: 0;
+    }
+    .s-text2 h2{
+        font-size:35px;
+    }
+    .fcbb {
+        margin-top: 20px;
+    }
+    .fcb {
+        margin-top: 20px;
+    }
+    .smart {
+        margin-top: 50px;
+        padding: 0;
+    }
+    .s-text2 h2{
+        padding-right:0;
+    }
+    .singel h2{
+        font-size:17px;
+    }
+    .s-text2 p{
+        padding-right:0;
+    }
+    .singel p {
+        padding-right: 0px;
+    }
+    .network {
+        margin-top: 70px;
+        /* padding: 0 60px; */
+    }
+    .pppp {
+        padding: 0 0px;
+    }
+    .degine{
+        margin-top:70px;
+    }
+    .degText {
+        margin-top: 0;
+        padding-left: 60px;
+    }
+    .degText h2{
+        padding-right:0;
+    }
+    .pricing {
+        margin-top: 80px;
+    }
+    .cmtext{
+        padding: 0;
+        margin-bottom:50px;
+    }
+    .ulText h2{
+        padding-right:0px;
+    }
+    .ap {
+        margin-top: 20px;
+    }
+    .ap p{
+        margin-bottom:30px;
+    }
+    .ap h2{
+        margin-bottom:20px;
+    }
+    .ml {
+        margin-left: 0;
+    }
+    .awesome {
+        margin-top: 0px;
+    }
+    .ctext {
+        padding-right: 0px;
+    }
+    .ctext h2 {
+        font-size:30px;
+    }
+    .downtext h2{
+        font-size:33px;
+    }
+    .downimg img {
+        margin-top: 100px;
+    }
+    .downtext img {
+        margin-right: 20px;
+        width:40%;
+    }
+    .ccp {
+        top: 78%;
+        left: 73%;
+    }
+    .ccn {
+        top: 78%;
+        right:0px;
+    }
+    .asked {
+        margin-top: 80px;
+        padding-bottom: 40px;
+    }
+    footer {
+        margin-top: 50px;
+    }
+    .footer-text {
+        padding: 50px 0;
+    }
+ }
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .editor{
+        width:70%;
+    }
+    .b_content h1{
+        font-size:45px;
+    }
+    .fc_text p {
+        padding-right: 0;
+    }
+    .s-text2 h2{
+        font-size:35px;
+    }
+    .fcbb {
+        margin-top: 50px;
+    }
+    .singel p {
+        padding-right: 0px;
+    }
+    .pppp {
+        padding: 0 0px;
+    }
+    .cmtext{
+        padding: 0;
+        margin-bottom:50px;
+    }
+    .ulText h2{
+        padding-right:0px;
+    }
+    .ap {
+        margin-top: 40px;
+    }
+    .ap p{
+        margin-bottom:30px;
+    }
+    .awesome {
+        margin-top: 0px;
+    }
+    .ctext {
+        padding-right: 0px;
+    }
+    .ctext h2 {
+        font-size:35px;
+    }
+    .downtext h2{
+        font-size:34px;
+    }
+    .downtext img {
+        margin-right: 20px;
+    }
+    .ccp {
+        top: 79%;
+        left: 64%;
+    }
+    .ccn {
+        top: 78%;
+        right:52px;
+    }
+    footer {
+        margin-top: 50px;
+    }
+    .footer-text {
+        padding: 50px 0;
+    }
+}
+
+ /* X-Large devices (desktops, 1200px and up) */
+ @media (min-width: 1200px) and (max-width: 1399.98px) {
+    .singel p {
+        padding-right: 60px;
+    }
+    .ulText h2{
+        padding-right:50px;
+    }
+    .ap p{
+        margin-bottom:30px;
+    }
+    .awesome {
+        margin-top: 0px;
+    }
+    .ctext {
+        padding-right: 40px;
+    }
+    .downtext h2{
+        font-size:42px;
+    }
+ }
+
+ /* XX-large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+
+}
